@@ -7,7 +7,7 @@
 
 - Para ejecutar algún archivo debes escribir en consola por ejemplo
 ``` bash
-    Deno \01-singleton\01-singleton.ts
+    deno .\01-singleton\01-singleton.ts
 ``` 
 
 # Recursos adicionales
